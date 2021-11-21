@@ -9,22 +9,29 @@ The dataset I will be using is about Life expectancy of different countries. The
 
 Features :
 
-Year : from 2000 to 2015
-Status : Developed or Developing status
-Adult_Mortality : Adult Mortality Rates of both sexes (probability of dying between 15 and 60 years per 1000 population)
-Alcohol : Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)
-percentage_expenditure : Expenditure on health as a percentage of Gross Domestic Product per capita(%)
-BMI: Average Body Mass Index of entire population
-Total_expenditure: General government expenditure on health as a percentage of total government expenditure (%)
-Diphtheria: Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
-HIV_AIDS: Deaths per 1000 live births HIV/AIDS (0-4 years)
-GDP: Gross Domestic Product per capita (in USD)
-Population
-Income_composition_of_resources: Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
-Schooling: Number of years of Schooling(years)
+- Year : from 2000 to 2015
+- Status : Developed or Developing status
+- Adult Mortality : Adult Mortality Rates of both sexes (probability of dying between 15 and 60 years per 1000 population)
+- infant deaths : Number of infant deaths per 1000 population
+- Alcohol : Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol)
+- percentage expenditure : Expenditure on health as a percentage of Gross Domestic Product per capita(%)
+- Hepatitis B : Hepatitis B (HepB) immunization coverage among 1-year-olds (%)
+- Measles : number of reported cases per 1000 population
+- BMI: Average Body Mass Index of entire population
+- under-five deaths : Number of under-five deaths per 1000 population
+- Polio : Polio (Pol3) immunization coverage among 1-year-olds (%)
+- Total expenditure: General government expenditure on health as a percentage of total government expenditure (%)
+- Diphtheria: Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
+- HIV/AIDS: Deaths per 1000 live births HIV/AIDS (0-4 years)
+- GDP: Gross Domestic Product per capita (in USD)
+- Population : Population of the country
+- thinness 1-19 years : Prevalence of thinness among children and adolescents for Age 10 to 19 (% )
+- thinness 5-9 years : Prevalence of thinness among children for Age 5 to 9(%)
+- Income composition of resources : Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
+- Schooling: Number of years of Schooling (years)
 
 Target:
-Life_expectancy: Life Expectancy in age
+- Life expectancy: Life Expectancy in age
 
 # Inspiration
 The data-set aims to answer the following key questions:
